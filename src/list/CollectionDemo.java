@@ -19,7 +19,7 @@ public class CollectionDemo {
      
      System.out.println(ll);
      
-     ll.addFirst("aaa");
+     ll.addFirst("www");
       System.out.println(ll);
      
      ll.addLast(44);
